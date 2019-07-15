@@ -12,7 +12,6 @@ class Routes{
 		this.users = []; 
 	}
 
-
 	appRoutes(){
 
 		this.app.get('/', (request,response) => {
